@@ -1,0 +1,4 @@
+imagerepository: "docker-hub.kenbun.de/kenbuntraining"
+build: "true"
+tag: "true"
+push: "true"

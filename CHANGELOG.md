@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.7.0 (2022-07-31)
+
+For for Kenbun Training purposes
+Thomas Mann
+
 ## 2.6.4 (2022-06-22)
 Upgrade to PostgreSQL 14.4.  
 See https://www.postgresql.org/about/news/postgresql-144-released-2470/
